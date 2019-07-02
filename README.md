@@ -1,6 +1,6 @@
 # booksie-data
 
-[![Booksie.org](https://raw.githubusercontent.com/sgtpep/booksie/master/assets/logo.svg?sanitize=true)](https://www.booksie.org/)
+[![Booksie](https://raw.githubusercontent.com/sgtpep/booksie/master/assets/logo.svg?sanitize=true)](https://www.booksie.org/)
 
 **Free Picture Storybooks for Children**
 
